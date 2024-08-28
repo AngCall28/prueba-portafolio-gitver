@@ -3,3 +3,4 @@
 
 Este código usa un:
 ``console.log()``
+Nuevo mensaje.
